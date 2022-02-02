@@ -1,0 +1,4 @@
+Planning
+- PHP Framework
+- CI
+- Javascript
